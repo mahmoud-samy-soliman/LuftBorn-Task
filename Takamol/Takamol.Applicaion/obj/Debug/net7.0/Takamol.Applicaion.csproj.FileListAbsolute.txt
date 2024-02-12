@@ -1,0 +1,30 @@
+D:/Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.deps.json
+D:/Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.dll
+D:/Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.pdb
+D:/Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Domain.dll
+D:/Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Domain.pdb
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.AssemblyReference.cache
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.GeneratedMSBuildEditorConfig.editorconfig
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.AssemblyInfoInputs.cache
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.AssemblyInfo.cs
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.CoreCompileInputs.cache
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.CopyComplete
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.dll
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/refint/Takamol.Applicaion.dll
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.pdb
+D:/Takamol/Takamol.Applicaion/obj/Debug/net7.0/ref/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.deps.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Applicaion.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/bin/Debug/net7.0/Takamol.Domain.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.AssemblyReference.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.AssemblyInfoInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.AssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.CoreCompileInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.csproj.CopyComplete
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/refint/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/Takamol.Applicaion.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Applicaion/obj/Debug/net7.0/ref/Takamol.Applicaion.dll

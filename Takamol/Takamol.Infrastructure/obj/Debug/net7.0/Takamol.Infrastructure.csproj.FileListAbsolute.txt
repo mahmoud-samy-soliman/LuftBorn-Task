@@ -1,0 +1,28 @@
+D:/Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.deps.json
+D:/Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.dll
+D:/Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.pdb
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.csproj.AssemblyReference.cache
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.AssemblyInfoInputs.cache
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.AssemblyInfo.cs
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.csproj.CoreCompileInputs.cache
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.dll
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/refint/Takamol.Infrastructure.dll
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.pdb
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/ref/Takamol.Infrastructure.dll
+D:/Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.runtimeconfig.json
+D:/Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.deps.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.runtimeconfig.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/bin/Debug/net7.0/Takamol.Infrastructure.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.csproj.AssemblyReference.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.AssemblyInfoInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.AssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/refint/Takamol.Infrastructure.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/Takamol.Infrastructure.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Infrastructure/obj/Debug/net7.0/ref/Takamol.Infrastructure.dll

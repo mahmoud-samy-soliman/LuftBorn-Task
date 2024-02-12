@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Takamol.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Takamol.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Takamol.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Takamol.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Takamol.Domain/Takamol.Domain.csproj",
+      "msbuildProject": "../Takamol.Domain/Takamol.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Takamol.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ALEX STORE\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Takamol\\Takamol.Common\\Takamol.Common.csproj",
+      "projectName": "Takamol.Common",
+      "projectPath": "D:\\Takamol\\Takamol.Common\\Takamol.Common.csproj",
+      "packagesPath": "C:\\Users\\ALEX STORE\\.nuget\\packages\\",
+      "outputPath": "D:\\Takamol\\Takamol.Common\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ALEX STORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Takamol\\Takamol.Domain\\Takamol.Domain.csproj": {
+              "projectPath": "D:\\Takamol\\Takamol.Domain\\Takamol.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Takamol\Takamol.Common\bin\Debug\net7.0\Takamol.Common.deps.json
+D:\Takamol\Takamol.Common\bin\Debug\net7.0\Takamol.Common.dll
+D:\Takamol\Takamol.Common\bin\Debug\net7.0\Takamol.Common.pdb
+D:\Takamol\Takamol.Common\bin\Debug\net7.0\Takamol.Domain.dll
+D:\Takamol\Takamol.Common\bin\Debug\net7.0\Takamol.Domain.pdb
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.csproj.AssemblyReference.cache
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.AssemblyInfoInputs.cache
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.AssemblyInfo.cs
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.csproj.CoreCompileInputs.cache
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.csproj.CopyComplete
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.dll
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\refint\Takamol.Common.dll
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\Takamol.Common.pdb
+D:\Takamol\Takamol.Common\obj\Debug\net7.0\ref\Takamol.Common.dll

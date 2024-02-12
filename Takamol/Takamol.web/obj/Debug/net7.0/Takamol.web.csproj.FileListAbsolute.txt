@@ -1,0 +1,226 @@
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.AssemblyReference.cache
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.GeneratedMSBuildEditorConfig.editorconfig
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.AssemblyInfoInputs.cache
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.AssemblyInfo.cs
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.CoreCompileInputs.cache
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.MvcApplicationPartsAssemblyInfo.cs
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.MvcApplicationPartsAssemblyInfo.cache
+D:/Takamol/Takamol.web/bin/Debug/net7.0/appsettings.Development.json
+D:/Takamol/Takamol.web/bin/Debug/net7.0/appsettings.json
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.staticwebassets.runtime.json
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.exe
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.deps.json
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.runtimeconfig.json
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.pdb
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Azure.Core.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Azure.Identity.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Humanizer.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.CodeDom.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Memory.Data.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Applicaion.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Domain.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Infrastructure.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Infrastructure.pdb
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Applicaion.pdb
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Domain.pdb
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.Takamol.web.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.build.Takamol.web.props
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Takamol.web.props
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Takamol.web.props
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.pack.json
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.build.json
+D:/Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.development.json
+D:/Takamol/Takamol.web/obj/Debug/net7.0/scopedcss/bundle/Takamol.web.styles.css
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.CopyComplete
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.dll
+D:/Takamol/Takamol.web/obj/Debug/net7.0/refint/Takamol.web.dll
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.pdb
+D:/Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.genruntimeconfig.cache
+D:/Takamol/Takamol.web/obj/Debug/net7.0/ref/Takamol.web.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/AutoMapper.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/envdte.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/MediatR.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/MediatR.Contracts.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.VisualStudio.Interop.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Presistance.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Presistance.pdb
+D:/Takamol/Takamol.web/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/EntityFramework.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/AdvancedStringBuilder.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Antlr3.Runtime.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/BundleTransformer.Core.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/FluentValidation.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/System.Web.Optimization.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Web.Infrastructure.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/WebGrease.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/ru-RU/BundleTransformer.Core.resources.dll
+D:/Takamol/Takamol.web/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/appsettings.Development.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/appsettings.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.staticwebassets.runtime.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.deps.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.runtimeconfig.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.web.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/AdvancedStringBuilder.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Antlr3.Runtime.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/AutoMapper.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Azure.Core.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/BundleTransformer.Core.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/EntityFramework.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/envdte.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/FluentValidation.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Humanizer.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/MediatR.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Web.Optimization.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.VisualStudio.Interop.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Web.Infrastructure.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/WebGrease.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/ru-RU/BundleTransformer.Core.resources.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Infrastructure.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Presistance.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Infrastructure.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Presistance.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Applicaion.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/bin/Debug/net7.0/Takamol.Domain.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.AssemblyReference.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.AssemblyInfoInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.AssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.CoreCompileInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.Takamol.web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.build.Takamol.web.props
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Takamol.web.props
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Takamol.web.props
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/scopedcss/bundle/Takamol.web.styles.css
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.csproj.CopyComplete
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/refint/Takamol.web.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/Takamol.web.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.web/obj/Debug/net7.0/ref/Takamol.web.dll

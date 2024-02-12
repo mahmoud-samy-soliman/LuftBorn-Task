@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Takamol.Common/1.0.0": {
+        "dependencies": {
+          "Takamol.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Takamol.Common.dll": {}
+        }
+      },
+      "Takamol.Domain/1.0.0": {
+        "runtime": {
+          "Takamol.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Takamol.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Takamol.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

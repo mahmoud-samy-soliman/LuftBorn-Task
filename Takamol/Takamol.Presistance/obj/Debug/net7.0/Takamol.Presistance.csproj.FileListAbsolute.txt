@@ -1,0 +1,38 @@
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.deps.json
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.runtimeconfig.json
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.dll
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.pdb
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Applicaion.dll
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Domain.dll
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Applicaion.pdb
+D:/Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Domain.pdb
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.AssemblyReference.cache
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.AssemblyInfoInputs.cache
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.AssemblyInfo.cs
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.CoreCompileInputs.cache
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.CopyComplete
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.dll
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/refint/Takamol.Presistance.dll
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.pdb
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.genruntimeconfig.cache
+D:/Takamol/Takamol.Presistance/obj/Debug/net7.0/ref/Takamol.Presistance.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.deps.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.runtimeconfig.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Presistance.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Applicaion.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Applicaion.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/bin/Debug/net7.0/Takamol.Domain.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.AssemblyReference.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.AssemblyInfoInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.AssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.CoreCompileInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.csproj.CopyComplete
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/refint/Takamol.Presistance.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/Takamol.Presistance.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Presistance/obj/Debug/net7.0/ref/Takamol.Presistance.dll

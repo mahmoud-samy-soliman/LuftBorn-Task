@@ -1,0 +1,28 @@
+D:/Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.deps.json
+D:/Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.dll
+D:/Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.pdb
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.csproj.AssemblyReference.cache
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.AssemblyInfoInputs.cache
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.AssemblyInfo.cs
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.csproj.CoreCompileInputs.cache
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.dll
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/refint/Takamol.Domain.dll
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.pdb
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/ref/Takamol.Domain.dll
+D:/Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.runtimeconfig.json
+D:/Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.deps.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.runtimeconfig.json
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/bin/Debug/net7.0/Takamol.Domain.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.csproj.AssemblyReference.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.AssemblyInfoInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.AssemblyInfo.cs
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.csproj.CoreCompileInputs.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/refint/Takamol.Domain.dll
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.pdb
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/Takamol.Domain.genruntimeconfig.cache
+/Users/mahmoudsamy/Desktop/Salma Prjoect /Takamol/Takamol.Domain/obj/Debug/net7.0/ref/Takamol.Domain.dll

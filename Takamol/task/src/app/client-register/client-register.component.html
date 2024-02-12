@@ -1,0 +1,65 @@
+<form [formGroup]="registerForm">
+  <div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" formControlName="name" class = "form-control"/>
+    <div *ngIf="registerForm.get('name')?.errors != null &&  registerForm.get('name')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('name')?.errors?.['required']">name is required.</div>
+      <div *ngIf="registerForm.get('name')?.errors?.['pattern']">name should contain only characters.</div>
+    </div>
+  </div>
+        
+  <div class="form-group">
+    <label for="address">Address</label>
+    <input type="text" class="form-control" formControlName="address">
+    <div *ngIf="registerForm.get('address')?.errors != null &&  registerForm.get('address')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('address')?.errors?.['required']">Address is required.</div>
+    </div>
+  </div>
+
+  
+  <div class="form-group">
+    <label for="description">Description</label>
+    <input type="text" class="form-control" formControlName="description">
+    <div *ngIf="registerForm.get('description')?.errors != null &&  registerForm.get('description')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('description')?.errors?.['required']">Description is required.</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="jobTitle">JobTitle</label>
+    <input type="text" class="form-control" formControlName="jobTitle">
+    <div *ngIf="registerForm.get('jobTitle')?.errors != null &&  registerForm.get('jobTitle')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('jobTitle')?.errors?.['required']">JobTitle is required.</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="clientClassification">ClientClassification</label>
+    <input type="text" class="form-control" formControlName="clientClassification">
+    <div *ngIf="registerForm.get('clientClassification')?.errors != null &&  registerForm.get('clientClassification')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('clientClassification')?.errors?.['required']">ClientClassification is required.</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="clientSource">ClientSource</label>
+    <input type="text" class="form-control" formControlName="clientSource">
+    <div *ngIf="registerForm.get('clientSource')?.errors != null &&  registerForm.get('clientSource')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('clientSource')?.errors?.['required']">ClientSource is required.</div>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="salesMan">SalesMan</label>
+    <input type="text" class="form-control" formControlName="salesMan">
+    <div *ngIf="registerForm.get('salesMan')?.errors != null &&  registerForm.get('salesMan')?.touched" class="alert alert-danger">
+      <div *ngIf="registerForm.get('salesMan')?.errors?.['required']">SalesMan is required.</div>
+    </div>
+  </div>
+    
+    <div class="alert alert-danger" *ngIf="registerForm.invalid && (registerForm.dirty)">
+        Please fix the errors in the form.
+    </div>
+    
+    <button type="submit" class="btn btn-primary" (click)="registerData()">Create</button>
+</form>    

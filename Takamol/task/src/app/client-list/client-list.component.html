@@ -1,0 +1,45 @@
+<button class="btn btn-primary mb-3" routerLink="/clients/create">Create Client</button>
+<button class="btn btn-warning mb-3" (click)="resetTable()">Reset Table</button>
+
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>name</th>
+        <th>address</th>
+        <th>description</th>
+        <th>jobTitle</th>
+        <th>clientClassification</th>
+        <th>clientSource</th>
+        <th>salesMan</th>
+        <th>createdById</th>
+        <th>creationDate</th>
+        <th>modifiedById</th>
+        <th>modificationDate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let client of clients">
+        <td>{{ client.name }}</td>
+        <td>{{ client.address }}</td>
+        <td>{{ client.description}}</td>
+        <td>{{ client.jobTitle}}</td>
+        <td>{{ client.clientClassification}}</td>
+        <td>{{ client.clientSource}}</td>
+        <td>{{ client.salesMan}}</td>
+        <td>{{ client.createdById}}</td>
+        <td>{{ client.creationDate}}</td>
+        <td>{{ client.modifiedById}}</td>
+        <td>{{ client.modificationDate}}</td>
+        <td>
+          <button (click)="editClient(client.id)" class="btn btn-primary">Edit</button>
+          <button (click)="deleteClient(client.id)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <mat-paginator [pageSizeOptions]="[5, 10, 25]" showFirstLastButtons></mat-paginator>
+
+
+
+  
